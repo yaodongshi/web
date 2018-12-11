@@ -10,6 +10,7 @@ export PATH
 #===================================================================#
 
 # Current folder
+#debian ss 一键安装脚本无脑安装
 cur_dir=`pwd`
 
 libsodium_file="libsodium-1.0.16"
